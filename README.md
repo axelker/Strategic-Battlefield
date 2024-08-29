@@ -1,5 +1,6 @@
 # Strategic Battlefield
 Strategic Battlefield is a tactical game where players navigate a grid-based map containing combatants, obstacles, and various elements such as bombs and mines. The objective is to strategically position your units and utilize the elements on the battlefield to defeat your opponent.
+This project is part of a design methods module that aims to apply and enhance object-oriented programming skills and the use of various design patterns, including Logger, Composite, Adapter, proxy and Strategy
 
 ## Functionalities
 The game board is a configurable grid defined in the Constante class. It consists of two maps:
